@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Im%20HyeonJeong&fontSize=70)
 
+<div align=center>
 :book: Tech Stack :book:
 
+ </div> 
+  
 <!--
 **hyeonjeongL/hyeonjeongL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
