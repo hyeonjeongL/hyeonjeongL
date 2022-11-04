@@ -16,8 +16,10 @@
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+ <br>
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  </div>
   
 <!--
